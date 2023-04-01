@@ -1,0 +1,11 @@
+fastapi==0.95.0
+jinja2==3.1.2
+imageio==2.27.0
+keras==2.12.0
+librosa==0.10.0.post2
+matplotlib==3.7.1
+numpy==1.23.5
+Pillow==9.5.0
+tensorflow==2.12.0
+python-multipart
+# tensorflow_intel==2.12.0
